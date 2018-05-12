@@ -1,15 +1,21 @@
 _repo: -Neath-Verdun-August-October-1914_46770
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Richards, H. Grahame
     gutenberg_agent_id: '43948'
     url: http://www.gutenberg.org/2009/agents/43948
+covers:
+- cover_type: archival
+  image_path: 46770-h/images/cover.jpg
 creator:
   author:
     agent_name: Genevoix, Maurice
     gutenberg_agent_id: '43947'
     url: http://www.gutenberg.org/2009/agents/43947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46770#-Neath-Verdun-August-October-1914
 gutenberg_issued: '2014-09-05'
 gutenberg_type: Text
 identifiers:
